@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm maher ali</h1>
+<h1 align="center">Hi I'm maher</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on **spotify clone**
