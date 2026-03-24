@@ -12,11 +12,7 @@
 <!--                    ANIMATED TYPING LINES                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=👋+Hey%2C+I'm+Maher+Ali!;⚡+MERN+Stack+Developer;🚀+Building+Scalable+Web+Apps;🎯+React+%7C+Node.js+%7C+MongoDB;💡+Clean+Code+Enthusiast;🌱+Always+Learning+%26+Growing" alt="Typing SVG" />
-
-</div>
 
 <br/>
 
