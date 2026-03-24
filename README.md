@@ -73,10 +73,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Optional Cool Feature)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maherali22/maherali22/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 ---
 
