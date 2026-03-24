@@ -15,9 +15,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/maher-ali-mattummal-67231330a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/maherali22"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="mailto:mahiralimattummal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -53,8 +53,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maherali22&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maherali22&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
